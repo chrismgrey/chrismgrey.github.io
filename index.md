@@ -1,7 +1,5 @@
 
----
-title: Chris Grey | Computer Science ePortfolio
----
+
 
 # Chris Grey
 ## Computer Science ePortfolio
