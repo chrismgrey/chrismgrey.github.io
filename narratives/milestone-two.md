@@ -1,10 +1,10 @@
 
 
-\# Milestone Two: Software Design and Engineering
+# Milestone Two: Software Design and Engineering
 
 
 
-\## Artifact Description
+## Artifact Description
 
 
 
@@ -12,7 +12,7 @@ For this enhancement, I selected the Raspberry Pi thermostat that I originally d
 
 
 
-\## Reason for Selection and Enhancements
+## Reason for Selection and Enhancements
 
 
 
@@ -24,7 +24,7 @@ My main improvement was separating the thermostat's control logic into its own m
 
 
 
-\## Course Outcomes
+## Course Outcomes
 
 
 
@@ -40,7 +40,7 @@ My original outcome-coverage plan has not changed. I intend to continue demonstr
 
 
 
-\## Reflection on the Enhancement Process
+## Reflection on the Enhancement Process
 
 
 
@@ -56,19 +56,19 @@ Although I wasn't able to physically retest the Raspberry Pi, the simulation and
 
 
 
-\## Project Files
+## Project Files
 
 
 
-\- \[Original Thermostat Source Code](https://github.com/chrismgrey/chrismgrey.github.io/blob/main/artifacts/original/original.py)
+- [Original Thermostat Source Code](https://github.com/chrismgrey/chrismgrey.github.io/blob/main/artifacts/original/original.py)
 
-\- \[Milestone Two Enhanced Code and Tests](https://github.com/chrismgrey/chrismgrey.github.io/tree/main/artifacts/milestone-two)
+- [Milestone Two Enhanced Code and Tests](https://github.com/chrismgrey/chrismgrey.github.io/tree/main/artifacts/milestone-two)
 
-\- \[Milestone Two Narrative (Word Document)](./Milestone%20Two%20Narrative.docx)
+- [Milestone Two Narrative (Word Document)](./Milestone%20Two%20Narrative.docx)
 
 
 
-\[Return to ePortfolio Homepage](../)
+[Return to ePortfolio Homepage](../)
 
 
 
