@@ -1,5 +1,5 @@
-
 # Chris Grey
+
 ## Computer Science ePortfolio
 
 Welcome to my Computer Science ePortfolio for Southern New Hampshire University (SNHU).
@@ -17,19 +17,27 @@ I selected this project because it provides opportunities to improve the origina
 ## Capstone Enhancements
 
 ### Milestone One: Code Review
+
 Completed a recorded review of the original thermostat application, identifying areas for improvement in code organization, functionality, testing, and data management.
 
+
+
+[Watch Milestone One Code Review (35 minutes)](https://youtu.be/Zbk9CL4cTfo)
+
 ### Milestone Two: Software Design and Engineering
+
 Improved the thermostat's software structure by separating core logic, supporting desktop simulation, and adding automated testing.
 
 **Status:** Submitted, pending instructor feedback.
 
 ### Milestone Three: Algorithms and Data Structures
+
 Expanded the application with temperature history tracking, rolling averages, abnormal temperature detection, and additional automated tests.
 
 **Status:** Submitted, pending instructor feedback.
 
 ### Milestone Four: Databases
+
 Planned enhancement to incorporate SQLite for storing and retrieving thermostat readings and settings.
 
 **Status:** Planned.
@@ -39,3 +47,4 @@ Planned enhancement to incorporate SQLite for storing and retrieving thermostat 
 This portfolio will include the original source code, enhanced project files, code review video, enhancement narratives, and professional self-assessment.
 
 Additional documentation and links will be added as the remaining enhancements are completed and instructor feedback is incorporated.
+
