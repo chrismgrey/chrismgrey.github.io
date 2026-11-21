@@ -40,6 +40,8 @@ Expanded the application with temperature history tracking, rolling averages, ab
 
 **Status:** Submitted, pending instructor feedback.
 
+[View Milestone Three: Algorithms and Data Structures](./narratives/milestone-three.html)
+
 ### Milestone Four: Databases
 
 Planned enhancement to incorporate SQLite for storing and retrieving thermostat readings and settings.
