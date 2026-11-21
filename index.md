@@ -30,6 +30,10 @@ Improved the thermostat's software structure by separating core logic, supportin
 
 **Status:** Submitted, pending instructor feedback.
 
+
+
+[View Milestone Two: Software Design and Engineering](./narratives/milestone-two.html)
+
 ### Milestone Three: Algorithms and Data Structures
 
 Expanded the application with temperature history tracking, rolling averages, abnormal temperature detection, and additional automated tests.
