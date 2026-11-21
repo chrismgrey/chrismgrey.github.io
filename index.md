@@ -1,23 +1,41 @@
 
-
-
 # Chris Grey
 ## Computer Science ePortfolio
 
 Welcome to my Computer Science ePortfolio for Southern New Hampshire University (SNHU).
 
-This portfolio highlights my growth throughout the Computer Science program, including projects, technical skills, and enhancements completed as part of my CS-499 capstone.
+This portfolio highlights the skills and experience I have developed throughout the Computer Science program, with a focus on software engineering, algorithms and data structures, and databases.
 
-### Capstone Project: Smart Thermostat
+## Capstone Project: Raspberry Pi Smart Thermostat
 
-My capstone focuses on enhancing a Raspberry Pi-based smart thermostat originally developed in CS-350: Emerging Systems Architectures and Technologies.
+For my CS-499 capstone, I selected a smart thermostat application originally developed in CS-350: Emerging Systems Architectures and Technologies.
 
-The project will demonstrate improvements across three areas:
+The original project was built using Python and a Raspberry Pi 4. It uses a temperature sensor, LCD display, buttons, and LEDs to simulate a thermostat with heating, cooling, and off modes.
 
-- Software Design and Engineering
-- Algorithms and Data Structures
-- Databases
+I selected this project because it provides opportunities to improve the original design while demonstrating additional software development skills.
 
-### Portfolio Development
+## Capstone Enhancements
 
-This portfolio is currently under development and will be updated throughout the CS-499 course to include my original and enhanced project files, code review, technical documentation, and professional self-assessment.
+### Milestone One: Code Review
+Completed a recorded review of the original thermostat application, identifying areas for improvement in code organization, functionality, testing, and data management.
+
+### Milestone Two: Software Design and Engineering
+Improved the thermostat's software structure by separating core logic, supporting desktop simulation, and adding automated testing.
+
+**Status:** Submitted, pending instructor feedback.
+
+### Milestone Three: Algorithms and Data Structures
+Expanded the application with temperature history tracking, rolling averages, abnormal temperature detection, and additional automated tests.
+
+**Status:** Submitted, pending instructor feedback.
+
+### Milestone Four: Databases
+Planned enhancement to incorporate SQLite for storing and retrieving thermostat readings and settings.
+
+**Status:** Planned.
+
+## Portfolio Documentation
+
+This portfolio will include the original source code, enhanced project files, code review video, enhancement narratives, and professional self-assessment.
+
+Additional documentation and links will be added as the remaining enhancements are completed and instructor feedback is incorporated.
