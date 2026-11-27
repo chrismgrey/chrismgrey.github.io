@@ -44,9 +44,12 @@ Expanded the application with temperature history tracking, rolling averages, ab
 
 ### Milestone Four: Databases
 
-Planned enhancement to incorporate SQLite for storing and retrieving thermostat readings and settings.
+Added SQLite database functionality to store temperature readings and thermostat setting changes, retrieve historical records, and calculate temperature statistics.
 
-**Status:** Planned.
+**Status:** Submitted, pending instructor feedback.
+
+[View Milestone Four: Databases](./narratives/milestone-four.html)
+
 
 ## Portfolio Documentation
 
